@@ -1,10 +1,9 @@
 ﻿# [GD32F1](https://github.com/sochub/GD32F1)
 [![sites](SoC/qitas.png)](http://www.qitas.cn) 
-####  qitas@qitas.cn
 #### 父级：[GigaDevice](https://github.com/sochub/GigaDevice) 
-#### 归属：[Cortex-M3](https://github.com/sochub/CM3) 
+#### 架构：[Cortex M3](https://github.com/sochub/CM3) 
 
-GD32F1系列采用Cortex M3内核，主频108MHz
+GigaDevice的 GD32F1系列产品采用Cortex M3内核，主要型号主频为108MHz，对标STM32F1系列，在开发工具上具有兼容性。
 
 [![sites](SoC/GD32F1.png)](http://cn.gigadevice.com/product-category/17.html?locale=zh_CN) 
 
@@ -13,10 +12,12 @@ GD32F1系列采用Cortex M3内核，主频108MHz
 * [参考文档](docs/)
 * [参考资源](src/)
 * [模板工程](demo/)
+
+### [相关工具](https://github.com/sochub/SDK)
+
 * [编译工具](https://github.com/sochub/arm-none-eabi)
 
-
-### [替换方案](https://github.com/sochub/GD32F1)
+### [选型建议](https://github.com/sochub/GD32F1)
 
 * [STM32F1](https://github.com/sochub/STM32F1)
 * [STM32F0](https://github.com/sochub/STM32F0)
