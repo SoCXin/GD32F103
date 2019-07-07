@@ -9,9 +9,9 @@ GigaDevice的 GD32F1系列产品采用Cortex M3内核，主频可达108MHz（F10
 
 ### [收录资源](https://github.com/sochub/GD32F1)
 
-* [参考文档](docs/)
-* [参考资源](src/)
-* [模板工程](demo/)
+* [文档](docs/)
+* [资源](src/)
+* [模板](demo/)
 
 ### [相关工具](https://github.com/sochub/SDK)
 
@@ -19,7 +19,10 @@ GigaDevice的 GD32F1系列产品采用Cortex M3内核，主频可达108MHz（F10
 
 ### [选型建议](https://github.com/sochub/GD32F1)
 
-* [STM32F1](https://github.com/sochub/STM32F1)
-* [STM32F0](https://github.com/sochub/STM32F0)
+相较于竞品STM32F10x，GD32F10x在主频上具有优势，同样具有不同型号不同规格的外设配置，当然两者在小批量的性价比上差异不如其他国货芯片明显，两者同质化，但是GD32的开发工具资源和开源软生态不够完善。
+
+相关参考：
+* [STM32F10x](https://github.com/sochub/STM32F1)
+* [MM32F10x](https://github.com/sochub/MM32F1)
 
 ##  [SoC资源平台](http://www.qitas.cn)
