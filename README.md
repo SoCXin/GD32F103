@@ -1,28 +1,32 @@
-﻿# [GD32F10x](https://github.com/sochub/GD32F1)
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-#### 父级：[GigaDevice](https://github.com/sochub/GigaDevice) 
-#### 架构：[Cortex M3](https://github.com/sochub/CM3) 
+﻿# [GD32F103](https://github.com/SoCXin/GD32F103) 
 
-GigaDevice的 GD32F1系列产品采用Cortex M3内核，主频可达108MHz（F101为56MHz），对标STM32F1系列，在开发工具和风格上具有兼容性。
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin)  
 
-[![sites](SoC/GD32F1.png)](http://cn.gigadevice.com/product-category/17.html?locale=zh_CN) 
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[GigaDevice](https://github.com/SoCXin/GigaDevice)
+#### [Core](https://github.com/SoCXin/Cortex) ：[Cortex M3](https://github.com/SoCXin/CM3) 
+#### [Level](https://github.com/SoCXin/Level) ：108MHz & 153DMIPS
 
-### [收录资源](https://github.com/sochub/GD32F1)
+
+[GD32F103](https://github.com/SoCXin/GD32F103) 系列产品采用[Cortex M3](https://github.com/SoCXin/CM3) 内核，主频108MHz
+
+[![sites](docs/GD32F1.png)](http://www.gd32mcu.com/cn/product/m3) 
+
+### [收录资源](https://github.com/SoCXin/GD32F103)
 
 * [文档](docs/)
 * [资源](src/)
-* [模板](demo/)
 
-### [相关工具](https://github.com/sochub/SDK)
+#### [资源链接](https://github.com/SoCXin/SDK)
 
-* [编译工具](https://github.com/sochub/arm-none-eabi)
+* [编译工具](https://github.com/SoCXin/arm-none-eabi)
 
-### [选型建议](https://github.com/sochub/GD32F1)
+### [选型建议](https://github.com/SoCXin/GD32F103)
 
-相较于竞品STM32F10x，GD32F10x在主频上具有优势，同样具有不同型号不同规格的外设配置，当然两者在小批量的性价比上差异不如其他国货芯片明显，两者同质化，但是GD32的开发工具资源和开源软生态不够完善。
+[GD32F103](https://github.com/SoCXin/GD32F103) 相较于[STM32F103](https://github.com/SoCXin/STM32F103) 主频高，劣势是定位趋同，差异化不明显
 
-相关参考：
-* [STM32F10x](https://github.com/sochub/STM32F1)
-* [MM32F10x](https://github.com/sochub/MM32F1)
+同质化产品
 
-##  [SoC资源平台](http://www.qitas.cn)
+* [STM32F103](https://github.com/SoCXin/STM32F103)
+* [MM32F103](https://github.com/SoCXin/MM32F103)
+
+###  [SoC芯平台](http://SoC.Xin) 
